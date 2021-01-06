@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:id="@+id/ll_search"
+    android:visibility="gone"
+    tool:visibility="visible"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView android:background="@color/colorGray2" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <LinearLayout android:orientation="vertical" android:id="@+id/ll_info" android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout style="@style/input_ll">
+                <TextView android:id="@+id/tv_job_type" android:text="作业类型" style="@style/input_title" />
+                <TextView android:id="@+id/et_job_type" android:hint="选择作业类型" style="@style/input_text_value" />
+                <ImageView style="@style/input_right_icon" />
+            </LinearLayout>
+            <LinearLayout style="@style/input_ll">
+                <TextView android:id="@+id/tv_kssj" android:text="开始时间" style="@style/input_title" />
+                <TextView android:id="@+id/et_kssj" android:hint="选择开始时间" style="@style/input_text_value" />
+                <ImageView style="@style/input_right_icon" />
+            </LinearLayout>
+            <LinearLayout style="@style/input_ll">
+                <TextView android:id="@+id/tv_jssj" android:text="结束时间" style="@style/input_title" />
+                <TextView android:id="@+id/et_jssj" android:hint="选择结束时间" style="@style/input_text_value" />
+                <ImageView style="@style/input_right_icon" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="@color/colorWhite"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btn_search_cancel"
+            android:text="取消搜索"
+            android:layout_margin="@dimen/dim10"
+            style="@style/ButtonStyle1"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/btn_search_ok"
+            android:text="搜索"
+            android:layout_margin="@dimen/dim10"
+            style="@style/ButtonStyle1"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

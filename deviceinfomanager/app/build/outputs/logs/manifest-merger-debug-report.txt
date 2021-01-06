@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [androidx.multidex:multidex:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\d8d570bbfec3bdcfb25a33b930a06718\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:10.2.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\528dfa1391836b65d2ea9e62058b5da4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.zhy:okhttputils:2.6.2] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\bd34c2234f1386cb2ecec7e223dc3482\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0351216ed648a5838f189daf253ed86a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\bca4928883a74cd938201ca31ba4cdc2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\fb04d2786c0215dd356e5df9a41ad90f\AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\8fed942c19124c89d7c428ecf364a99f\AndroidManifest.xml:15:1-21:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-7] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\cda8950a6b7244aa2f77088120340380\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\15a689863168780c46bb9b179a690a8d\AndroidManifest.xml:2:1-12:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\55770ae77749fa12638a93cf24b4a044\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f2c0678d844d6918ca9652a5d55da03c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\23677f782ad9bb0ca972868b23e49c9f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\a997e8856fe7add8735490b90020a564\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\376b0acbcae19ba0f94793345b2a57d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\b4cc9654b22bba5ca8fdac709f2100f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f5c5886a3207bdfb6cf64af82c0e1fce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\c80312d4ac3b7050494faee611c93c72\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\3ca959fddeb8555c26e66b0adbe30dd8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\85cf2e0179b6604aab00d8a5f5fafffe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\00886a84f8def3892d779b2316c04919\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\dfe2cf1e99420164d25158851d99b4c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\2051a6ebe1a998dfb0eee10b1a11644e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\1340f60c4845cbb6df2ef2990faaa2c0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\6ab4775fcb7e90debedeabe8b22e98e5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\9e7852981840d488c2813d758cb20e1d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\3c3eb760903c673718e601667db59cd7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f32153ead1ce58cf36aba366f328a6e5\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0f803cbf10c2bc865f9ba6b9f1676baf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\c7888170f642af0a0f99b4a7167fef12\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\5591691575309f2ac3608a00db8e8d34\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\04b156018f47dee6e456fbbafa41dab4\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\13a3cb51055ae7a3e24f01346b3c0e5a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\011a9198b27dd454d9806b60d48cb431\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\a1aa8bc425ce115b81e4979dfd62fef9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\b689db75a29eb64f8877617e1c7072aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0111bfc89e54d1c7b492b27f156e936e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f642cd171fd9a21650363fc8b52fe6ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\07afea5ad374195d9cadba5305079bdd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\7f3b66c3b26909a6f51b0ae4b8acb7fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0857acf8cbea4be9016331f20952fc89\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\4bb829af0d93eccdf1a6cd41c2e55db4\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+		INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:8:22-62
+uses-feature#android.hardware.camera2.full
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:9:19-63
+uses-feature#android.hardware.camera
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:10:5-59
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:11:19-67
+application
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:13:5-40:19
+MERGED from [com.google.android.material:material:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0351216ed648a5838f189daf253ed86a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0351216ed648a5838f189daf253ed86a\AndroidManifest.xml:22:5-20
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-7] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\cda8950a6b7244aa2f77088120340380\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-7] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\cda8950a6b7244aa2f77088120340380\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.bumptech.glide:glide:4.10.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\15a689863168780c46bb9b179a690a8d\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\15a689863168780c46bb9b179a690a8d\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f32153ead1ce58cf36aba366f328a6e5\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f32153ead1ce58cf36aba366f328a6e5\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\c7888170f642af0a0f99b4a7167fef12\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\c7888170f642af0a0f99b4a7167fef12\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\04b156018f47dee6e456fbbafa41dab4\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\04b156018f47dee6e456fbbafa41dab4\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f32153ead1ce58cf36aba366f328a6e5\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:15:9-36
+	android:allowBackup
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.qgqaqgqa.deviceinfomanager.MainActivity
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:20:9-30:20
+	android:screenOrientation
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:23:13-49
+	android:launchMode
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:21:13-44
+	android:windowSoftInputMode
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:24:13-67
+	android:configChanges
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.qgqaqgqa.deviceinfomanager.baidu.ocr.ui.camera.CameraActivity
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:31:9-34:70
+	android:screenOrientation
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:33:13-49
+	android:windowSoftInputMode
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:34:13-67
+	android:configChanges
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:31:19-69
+activity#com.qgqaqgqa.deviceinfomanager.util.utilcode.util.PermissionUtils$PermissionActivity
+ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:36:9-39:70
+	android:screenOrientation
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:38:13-49
+	android:windowSoftInputMode
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:39:13-67
+	android:configChanges
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml:36:19-88
+uses-sdk
+INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\d8d570bbfec3bdcfb25a33b930a06718\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\d8d570bbfec3bdcfb25a33b930a06718\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:10.2.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\528dfa1391836b65d2ea9e62058b5da4\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\528dfa1391836b65d2ea9e62058b5da4\AndroidManifest.xml:5:5-44
+MERGED from [com.zhy:okhttputils:2.6.2] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\bd34c2234f1386cb2ecec7e223dc3482\AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:okhttputils:2.6.2] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\bd34c2234f1386cb2ecec7e223dc3482\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0351216ed648a5838f189daf253ed86a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0351216ed648a5838f189daf253ed86a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\bca4928883a74cd938201ca31ba4cdc2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\bca4928883a74cd938201ca31ba4cdc2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\fb04d2786c0215dd356e5df9a41ad90f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\fb04d2786c0215dd356e5df9a41ad90f\AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\8fed942c19124c89d7c428ecf364a99f\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\8fed942c19124c89d7c428ecf364a99f\AndroidManifest.xml:19:5-43
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-7] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\cda8950a6b7244aa2f77088120340380\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-7] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\cda8950a6b7244aa2f77088120340380\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\15a689863168780c46bb9b179a690a8d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\15a689863168780c46bb9b179a690a8d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.jakewharton:butterknife-runtime:10.2.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\55770ae77749fa12638a93cf24b4a044\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\55770ae77749fa12638a93cf24b4a044\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f2c0678d844d6918ca9652a5d55da03c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f2c0678d844d6918ca9652a5d55da03c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\23677f782ad9bb0ca972868b23e49c9f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\23677f782ad9bb0ca972868b23e49c9f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\a997e8856fe7add8735490b90020a564\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\a997e8856fe7add8735490b90020a564\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\376b0acbcae19ba0f94793345b2a57d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\376b0acbcae19ba0f94793345b2a57d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\b4cc9654b22bba5ca8fdac709f2100f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\b4cc9654b22bba5ca8fdac709f2100f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f5c5886a3207bdfb6cf64af82c0e1fce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f5c5886a3207bdfb6cf64af82c0e1fce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\c80312d4ac3b7050494faee611c93c72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\c80312d4ac3b7050494faee611c93c72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\3ca959fddeb8555c26e66b0adbe30dd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\3ca959fddeb8555c26e66b0adbe30dd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\85cf2e0179b6604aab00d8a5f5fafffe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\85cf2e0179b6604aab00d8a5f5fafffe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\00886a84f8def3892d779b2316c04919\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\00886a84f8def3892d779b2316c04919\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\dfe2cf1e99420164d25158851d99b4c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\dfe2cf1e99420164d25158851d99b4c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\2051a6ebe1a998dfb0eee10b1a11644e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\2051a6ebe1a998dfb0eee10b1a11644e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\1340f60c4845cbb6df2ef2990faaa2c0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\1340f60c4845cbb6df2ef2990faaa2c0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\6ab4775fcb7e90debedeabe8b22e98e5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\6ab4775fcb7e90debedeabe8b22e98e5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\9e7852981840d488c2813d758cb20e1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\9e7852981840d488c2813d758cb20e1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\3c3eb760903c673718e601667db59cd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\3c3eb760903c673718e601667db59cd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f32153ead1ce58cf36aba366f328a6e5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f32153ead1ce58cf36aba366f328a6e5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0f803cbf10c2bc865f9ba6b9f1676baf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0f803cbf10c2bc865f9ba6b9f1676baf\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\c7888170f642af0a0f99b4a7167fef12\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\c7888170f642af0a0f99b4a7167fef12\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\5591691575309f2ac3608a00db8e8d34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\5591691575309f2ac3608a00db8e8d34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\04b156018f47dee6e456fbbafa41dab4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\04b156018f47dee6e456fbbafa41dab4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\13a3cb51055ae7a3e24f01346b3c0e5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\13a3cb51055ae7a3e24f01346b3c0e5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\011a9198b27dd454d9806b60d48cb431\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\011a9198b27dd454d9806b60d48cb431\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\a1aa8bc425ce115b81e4979dfd62fef9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\a1aa8bc425ce115b81e4979dfd62fef9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\b689db75a29eb64f8877617e1c7072aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\b689db75a29eb64f8877617e1c7072aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0111bfc89e54d1c7b492b27f156e936e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0111bfc89e54d1c7b492b27f156e936e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f642cd171fd9a21650363fc8b52fe6ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\f642cd171fd9a21650363fc8b52fe6ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\07afea5ad374195d9cadba5305079bdd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\07afea5ad374195d9cadba5305079bdd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\7f3b66c3b26909a6f51b0ae4b8acb7fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\7f3b66c3b26909a6f51b0ae4b8acb7fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0857acf8cbea4be9016331f20952fc89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\0857acf8cbea4be9016331f20952fc89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\4bb829af0d93eccdf1a6cd41c2e55db4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\ASworkspace\AndroidVirtualDevice\ndk\21.3.6528147\caches\transforms-2\files-2.1\4bb829af0d93eccdf1a6cd41c2e55db4\AndroidManifest.xml:20:5-44
+INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+		INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+		ADDED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml
+		INJECTED from D:\OtherJavaGithub\ImgRecognitions\mayun\DeviceInfoManager\app\src\main\AndroidManifest.xml

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBodyBg">#FFFFFF</color>
+    <color name="colorPrimary">#DE1142</color>
+    <color name="colorPrimary5">#ffe8ed</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorHeaderBg">#DE1142</color>
+    <color name="colorHeaderBg2">#E61164</color>
+    <color name="colorFooterBg">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack1">#787878</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#DEDEDE</color>
+    <color name="colorGray1">#777777</color>
+    <color name="colorGray2">#EDEDED</color>
+    <color name="colorOrange">#FF4400</color>
+    <color name="colorOrange1">#FF9900</color>
+    <color name="colorOrange5">#FF9999</color>
+    <color name="color999">#999</color>
+    <color name="color5e6b85">#5e6b85</color>
+    <color name="colorHeadTitleBg">#33000000</color>
+    <color name="colorDivider">#efefef</color>
+    <color name="colorLine">#efefef</color>
+    <color name="colorLine1">#333333</color>
+    <color name="colorMainBack">#efefef</color>
+    <color name="colorBg">#f7f7f7</color>
+    <color name="colorText">#000000</color>
+    <color name="colorText1">#333333</color>
+    <color name="colorText2">#666666</color>
+    <color name="colorText3">#ababab</color>
+    <color name="colorDanmu">#88545454</color>
+    <color name="colorYellow">#f8b502</color>
+    <color name="colorYellow1">#f8f502</color>
+    <color name="colorOragne">#ff6b1c</color>
+    <color name="colorBlue">#25a4f5</color>
+    <color name="colorTran">#01000000</color>
+    <color name="colorGreen">#ff66dd33</color>
+    <color name="colorRed">#ffdd3333</color>
+
+
+    <color name="dkgray">#FF444444</color>
+    <color name="white">#FFF</color>
+
+
+    <!-- Chat Activity -->
+    <color name="localBackground">#827b92</color>
+    <color name="remoteBackground">#484258</color>
+</resources>

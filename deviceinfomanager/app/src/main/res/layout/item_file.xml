@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:padding="@dimen/dim10"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/iv_type"
+        android:src="@drawable/ic_file"
+        android:padding="@dimen/dim10"
+        android:layout_width="@dimen/dim90"
+        android:layout_height="@dimen/dim90"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/tv_name"
+        tool:text="文件名"
+        android:textSize="@dimen/txt36"
+        android:textColor="@color/colorBlack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_count"
+            tool:text="设备名称"
+            android:layout_marginTop="@dimen/dim10"
+            android:textColor="@color/colorBlack1"
+            android:textSize="@dimen/txt30"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tv_time"
+            tool:text="最后更新时间"
+            android:layout_marginTop="@dimen/dim10"
+            android:textColor="@color/colorBlack1"
+            android:textSize="@dimen/txt30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dim300"
+    android:background="@drawable/shape_round_td0d0d0"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_check_menu1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim95"
+        android:gravity="center"
+        android:text="文字识别"
+        android:textColor="#1a1a1a"
+        android:textSize="@dimen/txt36" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim1"
+        android:background="@color/colorGray"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:id="@+id/tv_check_menu2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim95"
+        android:gravity="center"
+        android:text="二维码识别"
+        android:textColor="#1a1a1a"
+        android:textSize="@dimen/txt36" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim10"
+        android:background="@color/colorGray"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:id="@+id/tv_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim95"
+        android:gravity="center"
+        android:text="取消"
+        android:textColor="#1a1a1a"
+        android:textSize="@dimen/txt36" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item android:drawable="@drawable/footer_menu_home_btn_icon_hover" android:state_checked="true"/>-->
+    <!--<item android:drawable="@drawable/footer_menu_home_btn_icon_hover" android:state_selected="true"/>-->
+    <!--<item android:drawable="@drawable/footer_menu_home_btn_icon"/>-->
+</selector>
